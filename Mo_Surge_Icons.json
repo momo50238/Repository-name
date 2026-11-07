@@ -1,6 +1,6 @@
 {
-  "name": "莫 · 常用应用与分流",
-  "description": "个人精选 31 枚图标。应用与策略图标来自 Koolson/Qure Color；QQ音乐图标来自 App Store。抖音使用TikTok标识。外部图标由各来源维护。",
+  "name": "莫 · Surge Icons V2",
+  "description": "精选 150 枚图标：常用应用、Apple、AI、影音、游戏、地区与网络策略。主体：Koolson/Qure Color；QQ音乐：App Store；大海：jdecked/twemoji。抖音沿用 TikTok 标识。图片版权归原作者，外部链接由各来源维护。",
   "icons": [
     {
       "name": "QQ音乐",
@@ -130,5 +130,477 @@
       "name": "海外服务",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png"
     },
+    {
+      "name": "Apple",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png"
+    },
+    {
+      "name": "Apple Music",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_Music.png"
+    },
+    {
+      "name": "Apple TV",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_TV.png"
+    },
+    {
+      "name": "Apple TV+",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple_TV_Plus.png"
+    },
+    {
+      "name": "iCloud",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iCloud.png"
+    },
+    {
+      "name": "查找",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Find_My.png"
+    },
+    {
+      "name": "TestFlight",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TestFlight.png"
+    },
+    {
+      "name": "微软",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Microsoft.png"
+    },
+    {
+      "name": "Windows",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Windows.png"
+    },
+    {
+      "name": "Windows 11",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Windows_11.png"
+    },
+    {
+      "name": "OneDrive",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/OneDrive.png"
+    },
+    {
+      "name": "Azure",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Azure.png"
+    },
+    {
+      "name": "Google",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google.png"
+    },
+    {
+      "name": "Google 搜索",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Search.png"
+    },
+    {
+      "name": "Google 云端硬盘",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Google_Drive.png"
+    },
+    {
+      "name": "Gmail",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Gmail.png"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png"
+    },
+    {
+      "name": "Notion",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Notion.png"
+    },
+    {
+      "name": "Copilot",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Copilot.png"
+    },
+    {
+      "name": "QQ",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/QQ.png"
+    },
+    {
+      "name": "Discord",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Discord.png"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Instagram.png"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Facebook.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/X.png"
+    },
+    {
+      "name": "LINE",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Line.png"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Linkedin.png"
+    },
+    {
+      "name": "Telegram X",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram_X.png"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube_Music.png"
+    },
+    {
+      "name": "TIDAL",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TIDAL.png"
+    },
+    {
+      "name": "Deezer",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/deezer.png"
+    },
+    {
+      "name": "KKBOX",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KKBOX.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney+.png"
+    },
+    {
+      "name": "Prime Video",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Prime_Video.png"
+    },
+    {
+      "name": "HBO",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HBO.png"
+    },
+    {
+      "name": "HBO Max",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/HBO_Max.png"
+    },
+    {
+      "name": "Hulu",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hulu.png"
+    },
+    {
+      "name": "Paramount",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Paramount.png"
+    },
+    {
+      "name": "Peacock",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Peacock.png"
+    },
+    {
+      "name": "Infuse",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Infuse.png"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitch.png"
+    },
+    {
+      "name": "Vimeo",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Vimeo.png"
+    },
+    {
+      "name": "爱奇艺",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/iQIYI.png"
+    },
+    {
+      "name": "腾讯视频 WeTV",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeTV.png"
+    },
+    {
+      "name": "巴哈姆特",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bahamut.png"
+    },
+    {
+      "name": "AbemaTV",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AbemaTV.png"
+    },
+    {
+      "name": "DAZN",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DAZN.png"
+    },
+    {
+      "name": "BBC iPlayer",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BBC_iPlayer.png"
+    },
+    {
+      "name": "ESPN+",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ESPN+.png"
+    },
+    {
+      "name": "niconico",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/niconico.png"
+    },
+    {
+      "name": "Viu",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Viu.png"
+    },
+    {
+      "name": "ViuTV",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ViuTV.png"
+    },
+    {
+      "name": "KKTV",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/KKTV.png"
+    },
+    {
+      "name": "TVB",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TVB.png"
+    },
+    {
+      "name": "MyTV SUPER",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/myTV_SUPER.png"
+    },
+    {
+      "name": "Tubi",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Tubi.png"
+    },
+    {
+      "name": "Steam",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png"
+    },
+    {
+      "name": "Epic Games",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Epic_Games.png"
+    },
+    {
+      "name": "PlayStation",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PlayStation.png"
+    },
+    {
+      "name": "Xbox",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Xbox.png"
+    },
+    {
+      "name": "Nintendo",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Nintendo.png"
+    },
+    {
+      "name": "英雄联盟",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/League_of_Legends.png"
+    },
+    {
+      "name": "游戏",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Game.png"
+    },
+    {
+      "name": "亚马逊",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Amazon.png"
+    },
+    {
+      "name": "阿里巴巴",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Alibaba.png"
+    },
+    {
+      "name": "PayPal",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png"
+    },
+    {
+      "name": "澳门",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Macao.png"
+    },
+    {
+      "name": "韩国",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Korea.png"
+    },
+    {
+      "name": "英国",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_Kingdom.png"
+    },
+    {
+      "name": "德国",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Germany.png"
+    },
+    {
+      "name": "法国",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/France.png"
+    },
+    {
+      "name": "加拿大",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Canada.png"
+    },
+    {
+      "name": "澳大利亚",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Australia.png"
+    },
+    {
+      "name": "印度",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/India.png"
+    },
+    {
+      "name": "马来西亚",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Malaysia.png"
+    },
+    {
+      "name": "泰国",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Thailand.png"
+    },
+    {
+      "name": "菲律宾",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Philippines.png"
+    },
+    {
+      "name": "土耳其",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Turkey.png"
+    },
+    {
+      "name": "巴西",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Brazil.png"
+    },
+    {
+      "name": "俄罗斯",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Russia.png"
+    },
+    {
+      "name": "乌克兰",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Ukraine.png"
+    },
+    {
+      "name": "欧盟",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/European_Union.png"
+    },
+    {
+      "name": "世界地图",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/World_Map.png"
+    },
+    {
+      "name": "亚洲地图",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Asia_Map.png"
+    },
+    {
+      "name": "欧洲地图",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Europe_Map.png"
+    },
+    {
+      "name": "国内服务",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Domestic.png"
+    },
+    {
+      "name": "国内媒体",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/DomesticMedia.png"
+    },
+    {
+      "name": "海外媒体",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ForeignMedia.png"
+    },
+    {
+      "name": "负载均衡",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Round_Robin.png"
+    },
+    {
+      "name": "故障转移",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Available.png"
+    },
+    {
+      "name": "拒绝连接",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Reject.png"
+    },
+    {
+      "name": "DNS 防劫持",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hijacking.png"
+    },
+    {
+      "name": "测速",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Speedtest.png"
+    },
+    {
+      "name": "服务器",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png"
+    },
+    {
+      "name": "下载",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Download.png"
+    },
+    {
+      "name": "Wi-Fi",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WiFi.png"
+    },
+    {
+      "name": "蜂窝网络",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cellular.png"
+    },
+    {
+      "name": "网络名称",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSID.png"
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cloudflare.png"
+    },
+    {
+      "name": "加密连接",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSL.png"
+    },
+    {
+      "name": "IPLC 专线",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/IPLC.png"
+    },
+    {
+      "name": "IEPL 专线",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/IEPL.png"
+    },
+    {
+      "name": "BGP 网络",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/BGP.png"
+    },
+    {
+      "name": "过滤",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Filter.png"
+    },
+    {
+      "name": "绕过",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bypass.png"
+    },
+    {
+      "name": "火箭",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Rocket.png"
+    },
+    {
+      "name": "彩虹",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Rainbow.png"
+    },
+    {
+      "name": "熊猫",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Panda.png"
+    },
+    {
+      "name": "青蛙",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Frog.png"
+    },
+    {
+      "name": "恐龙",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Dinosaur.png"
+    },
+    {
+      "name": "爱心",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Heart.png"
+    },
+    {
+      "name": "星星",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Star.png"
+    },
+    {
+      "name": "竹子",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Bamboo.png"
+    },
+    {
+      "name": "拼图",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Puzzle.png"
+    },
+    {
+      "name": "实验室",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Lab.png"
+    },
+    {
+      "name": "锁",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Lock.png"
+    },
+    {
+      "name": "邮件",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Mail.png"
+    },
+    {
+      "name": "Quantumult X",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Quantumult_X.png"
+    },
+    {
+      "name": "大海",
+      "url": "https://raw.githubusercontent.com/jdecked/twemoji/main/assets/72x72/1f30a.png"
+    }
   ]
 }

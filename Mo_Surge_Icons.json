@@ -1,6 +1,5 @@
-{
   "name": "莫 · 常用应用与分流",
-  "description": "个人精选 24 枚图标。应用与策略图标来自 Koolson/Qure Color；QQ音乐图标来自 App Store。抖音使用TikTok标识。外部图标由各来源维护。",
+  "description": "个人精选 31 枚图标。应用与策略图标来自 Koolson/Qure Color；QQ音乐图标来自 App Store。抖音使用TikTok标识。外部图标由各来源维护。",
   "icons": [
     {
       "name": "QQ音乐",
@@ -97,6 +96,34 @@
     {
       "name": "兜底策略",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png"
+    },
+    {
+      "name": "媒体",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Media.png"
+    },
+    {
+      "name": "Siri",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Siri.png"
+    },
+    {
+      "name": "App Store",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/App_Store.png"
+    },
+    {
+      "name": "小猫",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Cat.png"
+    },
+    {
+      "name": "人工智能",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/AI.png"
+    },
+    {
+      "name": "广告",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png"
+    },
+    {
+      "name": "机场",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Airport.png"
     }
   ]
 }

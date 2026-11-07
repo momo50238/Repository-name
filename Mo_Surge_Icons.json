@@ -1,1 +1,102 @@
 
+  "name": "莫 · 常用应用与分流",
+  "description": "个人精选 24 枚图标。应用与策略图标来自 Koolson/Qure Color；QQ音乐图标来自 App Store。抖音使用TikTok标识。外部图标由各来源维护。",
+  "icons": [
+    {
+      "name": "QQ音乐",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/b5/eb/d9b5eb6d-4390-1868-bf01-d8a959668cb4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg"
+    },
+    {
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/ChatGPT.png"
+    },
+    {
+      "name": "抖音（TikTok标识）",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/TikTok.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png"
+    },
+    {
+      "name": "微信",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/WeChat.png"
+    },
+    {
+      "name": "网易云音乐",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png"
+    },
+    {
+      "name": "微博",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Weibo.png"
+    },
+    {
+      "name": "哔哩哔哩",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/bilibili.png"
+    },
+    {
+      "name": "淘宝",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taobao.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Telegram.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png"
+    },
+    {
+      "name": "Emby",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Emby.png"
+    },
+    {
+      "name": "香港",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png"
+    },
+    {
+      "name": "美国",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png"
+    },
+    {
+      "name": "日本",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png"
+    },
+    {
+      "name": "台湾",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Taiwan.png"
+    },
+    {
+      "name": "新加坡",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png"
+    },
+    {
+      "name": "中国大陆",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png"
+    },
+    {
+      "name": "直连",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Direct.png"
+    },
+    {
+      "name": "代理",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Proxy.png"
+    },
+    {
+      "name": "自动选择",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Auto.png"
+    },
+    {
+      "name": "广告拦截",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Advertising.png"
+    },
+    {
+      "name": "兜底策略",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Final.png"
+    }
+  ]
+}

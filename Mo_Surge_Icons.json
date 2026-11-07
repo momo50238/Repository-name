@@ -125,6 +125,10 @@
     {
       "name": "机场",
       "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Airport.png"
+    },
+    {
+      "name": "海外服务",
+      "url": "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Global.png"
     }
   ]
 }
